@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nca.ServiceBus", "Nca.ServiceBus\Nca.ServiceBus.csproj", "{BDD7D2DE-07D7-4B40-8EBC-78C353DBDB98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.ServiceBus", "Nca.ServiceBus\Nca.ServiceBus.csproj", "{BDD7D2DE-07D7-4B40-8EBC-78C353DBDB98}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{78AF4E52-3994-487E-93EB-1EC37119E8DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nca.ServiceBus.InMemory", "Nca.ServiceBus.InMemory\Nca.ServiceBus.InMemory.csproj", "{66A7A7AF-7568-4F8C-AEFB-01761BF12AD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.ServiceBus.InMemory", "Nca.ServiceBus.InMemory\Nca.ServiceBus.InMemory.csproj", "{66A7A7AF-7568-4F8C-AEFB-01761BF12AD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nca.ServiceBus.RabbitMQ", "Nca.ServiceBus.RabbitMQ\Nca.ServiceBus.RabbitMQ.csproj", "{33060882-7832-4DA9-B3C4-BD7D9525588C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.ServiceBus.RabbitMQ", "Nca.ServiceBus.RabbitMQ\Nca.ServiceBus.RabbitMQ.csproj", "{33060882-7832-4DA9-B3C4-BD7D9525588C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestMigration", "TestMigration", "{B4739871-91CD-4608-807B-9E8DFC819E2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMigrationTool", "TestMigrationTool\TestMigrationTool.csproj", "{D0466695-3845-432D-B359-E2CDF187E6C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Az", "Az", "{B6433E45-E45F-41B9-95D7-C53C7A0B7C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azlogin", "Azlogin\Azlogin.csproj", "{8CB3D470-73CB-4315-AED0-152CFD1BA31E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,9 +37,21 @@ Global
 		{33060882-7832-4DA9-B3C4-BD7D9525588C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33060882-7832-4DA9-B3C4-BD7D9525588C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33060882-7832-4DA9-B3C4-BD7D9525588C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0466695-3845-432D-B359-E2CDF187E6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0466695-3845-432D-B359-E2CDF187E6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0466695-3845-432D-B359-E2CDF187E6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0466695-3845-432D-B359-E2CDF187E6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB3D470-73CB-4315-AED0-152CFD1BA31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB3D470-73CB-4315-AED0-152CFD1BA31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB3D470-73CB-4315-AED0-152CFD1BA31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB3D470-73CB-4315-AED0-152CFD1BA31E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0466695-3845-432D-B359-E2CDF187E6C8} = {B4739871-91CD-4608-807B-9E8DFC819E2F}
+		{8CB3D470-73CB-4315-AED0-152CFD1BA31E} = {B6433E45-E45F-41B9-95D7-C53C7A0B7C9F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF7F0CA8-CDB6-4790-B341-E366A859F8F5}
