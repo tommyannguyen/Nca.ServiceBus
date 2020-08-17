@@ -29,14 +29,15 @@ namespace Azlogin
 
     public class AppTimeSeriresClient
     {
-        string environmentFqdn = "8fa39f51-4dd0-4a9c-ac36-a000c7f864ad.env.timeseries.azure.com";
+        string environmentFqdn = "67b12250-9526-4f65-9090-0b4ca2ed58e8.env.timeseries.azure.com";
         string clientId = "ee17fb78-5793-4912-9cad-73bd1c3d20c7";
-        string clientSecret = "n_mi1F_7eml16Izv8J~5-LpmmtLrQxAh9c";
+        string clientSecret = "*6Kgf#h42O3p\"g59SL.ZQ>W%";
+        string tenantId = "b673531a-9a34-49f8-be84-93aa133d276b";
         public async Task<string> LoginAsync()
         {
            
             //https://login.microsoftonline.com/{tenant} 
-            var authority = "https://login.microsoftonline.com/9ad25b1a-5417-467d-a235-16dc1eb924d9";
+            var authority = $"https://login.microsoftonline.com/{tenantId}";
             IConfidentialClientApplication app = ConfidentialClientApplicationBuilder.Create(clientId)
                                                       .WithClientSecret(clientSecret)
                                                       .WithAuthority(new Uri(authority))

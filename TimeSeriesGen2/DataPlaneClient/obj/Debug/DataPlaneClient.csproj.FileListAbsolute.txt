@@ -1,0 +1,13 @@
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\DataPlaneClient.dll
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\DataPlaneClient.pdb
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.csproj.CoreCompileInputs.cache
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.csproj.CopyComplete
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.dll
+C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.pdb
