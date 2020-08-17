@@ -15,7 +15,14 @@ namespace DataPlaneSampleApp
     public sealed class Program
     {
         //https://api.timeseries.azure.com/
-       
+        private const string ResourceUri = "https://api.timeseries.azure.com/";
+
+        private const string ClientId = "";
+        private const string AzureActiveDirectoryLoginUrl = "https://login.windows.net";
+        private const string TenantId = "";
+        private const string SecretKey = "";
+        private const string EnvironmentFqdn = "";
+
         private static readonly object[] TimeSeriesId = { "2da181d7-8346-4cf2-bd94-a17742237429" };
 
         // Select a search span for the query.
