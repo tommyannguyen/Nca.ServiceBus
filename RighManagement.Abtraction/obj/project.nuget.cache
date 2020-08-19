@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7p53Hgw5UNSk/67CzE70Er1Ql0nYtFrX/ln0HrcobUPs+XjSKt4BZbP24qnXNiDXAhcSxBCVzXQ61+APmm/fA==",
+  "success": true,
+  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\RighManagement.Abtraction\\RighManagement.Abtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\An Linh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
