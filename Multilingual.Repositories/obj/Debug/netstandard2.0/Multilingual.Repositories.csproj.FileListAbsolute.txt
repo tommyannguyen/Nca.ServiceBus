@@ -1,0 +1,12 @@
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\bin\Debug\netstandard2.0\Multilingual.Abtraction.dll
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.AssemblyInfoInputs.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.AssemblyInfo.cs
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\bin\Debug\netstandard2.0\Multilingual.Repositories.deps.json
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\bin\Debug\netstandard2.0\Multilingual.Repositories.dll
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\bin\Debug\netstandard2.0\Multilingual.Repositories.pdb
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\bin\Debug\netstandard2.0\Multilingual.Abtraction.pdb
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.csprojAssemblyReference.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.csproj.CoreCompileInputs.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.csproj.CopyComplete
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.dll
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Repositories\obj\Debug\netstandard2.0\Multilingual.Repositories.pdb

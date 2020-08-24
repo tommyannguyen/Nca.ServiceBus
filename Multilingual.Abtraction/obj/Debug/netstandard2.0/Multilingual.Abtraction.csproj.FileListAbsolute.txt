@@ -1,0 +1,9 @@
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\bin\Debug\netstandard2.0\Multilingual.Abtraction.deps.json
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\bin\Debug\netstandard2.0\Multilingual.Abtraction.dll
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\bin\Debug\netstandard2.0\Multilingual.Abtraction.pdb
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.csprojAssemblyReference.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.AssemblyInfoInputs.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.AssemblyInfo.cs
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.csproj.CoreCompileInputs.cache
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.dll
+C:\Nca\Development\Nca.ServiceBus\Multilingual.Abtraction\obj\Debug\netstandard2.0\Multilingual.Abtraction.pdb

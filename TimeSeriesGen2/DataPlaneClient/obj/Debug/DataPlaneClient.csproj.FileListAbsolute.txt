@@ -11,3 +11,17 @@ C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneCl
 C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.csproj.CopyComplete
 C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.dll
 C:\Nca\Azure-Time-Series-Insights\gen2-sample\csharp-tsi-gen2-sample\DataPlaneClient\obj\Debug\DataPlaneClient.pdb
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\DataPlaneClient.dll
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\DataPlaneClient.pdb
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\obj\Debug\DataPlaneClient.csprojAssemblyReference.cache
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\obj\Debug\DataPlaneClient.csproj.CoreCompileInputs.cache
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\obj\Debug\DataPlaneClient.csproj.CopyComplete
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\obj\Debug\DataPlaneClient.dll
+C:\Nca\Development\Nca.ServiceBus\TimeSeriesGen2\DataPlaneClient\obj\Debug\DataPlaneClient.pdb
