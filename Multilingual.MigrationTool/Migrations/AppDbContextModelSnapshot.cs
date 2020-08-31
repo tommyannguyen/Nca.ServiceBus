@@ -53,6 +53,9 @@ namespace Multilingual.MigrationTool.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("char(36)");
 
+                    b.Property<bool>("IsAutomatic")
+                        .HasColumnType("tinyint(1)");
+
                     b.Property<string>("Language")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
