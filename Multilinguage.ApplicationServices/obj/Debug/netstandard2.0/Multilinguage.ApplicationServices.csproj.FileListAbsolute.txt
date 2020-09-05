@@ -10,3 +10,15 @@ C:\Nca\Development\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\ne
 C:\Nca\Development\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.csproj.CopyComplete
 C:\Nca\Development\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.dll
 C:\Nca\Development\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.pdb
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\bin\Debug\netstandard2.0\Multilinguage.ApplicationServices.deps.json
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\bin\Debug\netstandard2.0\Multilinguage.ApplicationServices.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\bin\Debug\netstandard2.0\Multilinguage.ApplicationServices.pdb
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\bin\Debug\netstandard2.0\Multilingual.Abtraction.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\bin\Debug\netstandard2.0\Multilingual.Abtraction.pdb
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.csprojAssemblyReference.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.AssemblyInfoInputs.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.AssemblyInfo.cs
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.csproj.CopyComplete
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilinguage.ApplicationServices\obj\Debug\netstandard2.0\Multilinguage.ApplicationServices.pdb

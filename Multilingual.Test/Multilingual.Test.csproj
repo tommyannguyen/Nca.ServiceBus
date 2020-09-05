@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Multilinguage.ApplicationServices\Multilinguage.ApplicationServices.csproj" />
+    <ProjectReference Include="..\Multilingual.MockDb\Multilingual.MockDb.csproj" />
     <ProjectReference Include="..\Multilingual.Repositories\Multilingual.Repositories.csproj" />
   </ItemGroup>
 

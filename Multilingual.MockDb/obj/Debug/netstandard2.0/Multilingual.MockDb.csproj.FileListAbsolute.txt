@@ -1,0 +1,12 @@
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\bin\Debug\netstandard2.0\Multilingual.MockDb.deps.json
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\bin\Debug\netstandard2.0\Multilingual.MockDb.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.AssemblyInfoInputs.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.AssemblyInfo.cs
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\bin\Debug\netstandard2.0\Multilingual.Abtraction.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\bin\Debug\netstandard2.0\Multilingual.Abtraction.pdb
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.csprojAssemblyReference.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.csproj.CopyComplete
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\bin\Debug\netstandard2.0\Multilingual.MockDb.pdb
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.csproj.CoreCompileInputs.cache
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.dll
+C:\Nca\Projects\Nca.ServiceBus\Multilingual.MockDb\obj\Debug\netstandard2.0\Multilingual.MockDb.pdb

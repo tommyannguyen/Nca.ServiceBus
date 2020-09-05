@@ -938,25 +938,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\An Linh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationTool\\Multilingual.MigrationTool.csproj",
+      "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationTool\\Multilingual.MigrationTool.csproj",
       "projectName": "Multilingual.MigrationTool",
-      "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationTool\\Multilingual.MigrationTool.csproj",
-      "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-      "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationTool\\obj\\",
+      "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationTool\\Multilingual.MigrationTool.csproj",
+      "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+      "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationTool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -965,17 +963,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
-              "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
+            "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
+              "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
             },
-            "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Repositories\\Multilingual.Repositories.csproj": {
-              "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Repositories\\Multilingual.Repositories.csproj"
+            "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Repositories\\Multilingual.Repositories.csproj": {
+              "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Repositories\\Multilingual.Repositories.csproj"
             }
           }
         }

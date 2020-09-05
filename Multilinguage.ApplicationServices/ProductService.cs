@@ -4,6 +4,8 @@ using Multilingual.Abtraction.Application;
 using Multilingual.Abtraction.Dto;
 using Multilingual.Abtraction.Repositories;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Multilinguage.ApplicationServices
@@ -45,6 +47,14 @@ namespace Multilinguage.ApplicationServices
 
             //Autompper;
             return ProductConverter.Convert(product, currentCulture);
+        }
+
+        public async Task<IEnumerable<ProductDto>> GetProductsAsync(int top)
+        {
+            var products = await _productRepository.GetProductsAsync(top);
+            var currentCulture = _applicationContext.CurrentCulture;
+
+            return products.Select(product => ProductConverter.Convert(product, currentCulture));
         }
     }
 }
