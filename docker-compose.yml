@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  mysql-db:
+    image: bitnami/mysql:latest
+    ports:
+      - 3306:3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=password123
+    networks:
+      turingmysql:
+
+  ef-migrations:
+    image: ef-migrations
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - mysql-db
+    networks:
+      turingmysql:
+
+networks:
+  turingmysql:

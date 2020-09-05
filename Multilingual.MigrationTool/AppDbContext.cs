@@ -8,7 +8,7 @@ namespace Multilingual.MigrationTool
         public AppDbContext() : base() { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("Server=localhost;Database=testDb;User=root;Password=password123");
+            optionsBuilder.UseMySql("Server=mysql-db;Database=testDb;User=root;Password=password123");
             base.OnConfiguring(optionsBuilder);
         }
     }
