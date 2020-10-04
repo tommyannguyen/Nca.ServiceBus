@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0qnr0PytKzQNJkG3L0uM5A8QAiRKtgnXcjvGDkQ+cORwReyCPnhNdfiZR9dYBsXMxMKA7DHEheZF98rQJPG7nQ==",
+  "dgSpecHash": "pPf+Cb+KInsANpkm9RGAAZ5y1l+E+R6UuK1kya7vylxgZoudBmWAHQJvePM2fEy+1x7XF26yfQ3tHYLuT6dd6Q==",
   "success": true,
   "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\MultiTenants.Core\\MultiTenants.Core.csproj",
   "expectedPackageFiles": [

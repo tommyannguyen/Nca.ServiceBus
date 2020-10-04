@@ -1,0 +1,12 @@
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.csprojAssemblyReference.cache
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.AssemblyInfoInputs.cache
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.AssemblyInfo.cs
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.csproj.CoreCompileInputs.cache
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\bin\Debug\netstandard2.1\SuperEntity.Core.deps.json
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\bin\Debug\netstandard2.1\SuperEntity.Core.dll
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\bin\Debug\netstandard2.1\SuperEntity.Core.pdb
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\bin\Debug\netstandard2.1\SuperEntity.Abtraction.dll
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\bin\Debug\netstandard2.1\SuperEntity.Abtraction.pdb
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.csproj.CopyComplete
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.dll
+C:\Nca\Development\Nca.ServiceBus\SuperEntity.Core\obj\Debug\netstandard2.1\SuperEntity.Core.pdb

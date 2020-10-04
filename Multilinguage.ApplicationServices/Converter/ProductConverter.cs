@@ -1,5 +1,6 @@
 ﻿using Multilingual.Abtraction;
 using Multilingual.Abtraction.Dto;
+using Multilingual.Abtraction.Types;
 
 namespace Multilinguage.ApplicationServices.Converter
 {

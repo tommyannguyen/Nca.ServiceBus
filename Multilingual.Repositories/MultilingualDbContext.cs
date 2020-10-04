@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Multilingual.Abtraction;
+using Multilingual.Abtraction.Types;
 
 namespace Multilingual.Repositories
 {

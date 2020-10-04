@@ -1,4 +1,5 @@
 ﻿
+using Multilingual.Abtraction.Types;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -16,7 +17,7 @@ namespace Multilingual.MockDb.Converter
             };
         }
 
-        public static IEnumerable<Models.Translation> Convert(Multilingual.Abtraction.MultilingualString multilingualString)
+        public static IEnumerable<Models.Translation> Convert(MultilingualString multilingualString)
         {
             return multilingualString.Translations.Select(s => new Models.Translation()
             {
@@ -31,7 +32,7 @@ namespace Multilingual.MockDb.Converter
             return new Abtraction.Product()
             {
                 Id = product.Id,
-                ProductName = new Abtraction.MultilingualString()
+                ProductName = new MultilingualString()
                 {
                     Id = Guid.NewGuid(),
                     Translations = Convert(product.Name).ToList()

@@ -1,14 +1,4 @@
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\MultiTenants.Core.deps.json
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\MultiTenants.Core.dll
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\MultiTenants.Core.pdb
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\Multilingual.Abtraction.dll
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\MultiTenants.Abtraction.dll
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\Multilingual.Abtraction.pdb
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\bin\Debug\netstandard2.0\MultiTenants.Abtraction.pdb
 C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.csprojAssemblyReference.cache
 C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.AssemblyInfoInputs.cache
 C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.AssemblyInfo.cs
 C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.csproj.CoreCompileInputs.cache
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.csproj.CopyComplete
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.dll
-C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.pdb
