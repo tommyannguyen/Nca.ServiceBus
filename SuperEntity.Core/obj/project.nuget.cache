@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfuf039Hpu2ucoG8KN826XR2iEVphRCOj80ODtAwf6xBFIMSeIWVXCoEZS3fAmQ/ZfNx8XfBs4UWZCem8stdwQ==",
+  "dgSpecHash": "lyqBBXrZEOcHSITxB8tXGmkz20O8ei+N9dVWkDBQQJ8kXZRGBs39QNMWrE+kXC0pfoRQJNX7Bgl8/EOrHHBJuA==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Core\\SuperEntity.Core.csproj",
+  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Core\\SuperEntity.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

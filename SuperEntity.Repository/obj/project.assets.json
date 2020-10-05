@@ -27,25 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\An Linh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Repository\\SuperEntity.Repository.csproj",
+      "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Repository\\SuperEntity.Repository.csproj",
       "projectName": "SuperEntity.Repository",
-      "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Repository\\SuperEntity.Repository.csproj",
-      "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-      "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Repository\\obj\\",
+      "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Repository\\SuperEntity.Repository.csproj",
+      "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+      "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -54,14 +52,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj": {
-              "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj"
+            "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj": {
+              "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj"
             }
           }
         }

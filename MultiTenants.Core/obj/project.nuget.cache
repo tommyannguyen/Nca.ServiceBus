@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pPf+Cb+KInsANpkm9RGAAZ5y1l+E+R6UuK1kya7vylxgZoudBmWAHQJvePM2fEy+1x7XF26yfQ3tHYLuT6dd6Q==",
+  "dgSpecHash": "X4IAfWl5ClW34/2kvE46fZEKyAgw2L7EW3ifk5vdcSK/ZZwLpIKw51UT8/HjYGo5WPMg0fqWiQhTGUWhbgIA4Q==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\MultiTenants.Core\\MultiTenants.Core.csproj",
+  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\MultiTenants.Core\\MultiTenants.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\An Linh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

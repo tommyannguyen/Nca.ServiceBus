@@ -4,8 +4,6 @@ using Multilingual.Abtraction.Properties;
 using Multilingual.Abtraction.Types;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 using Multilinguage.ApplicationServices.QueryExtentions;

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {}
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {}
   },
   "projects": {
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
+        "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
         "projectName": "Multilingual.Abtraction",
-        "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
-        "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-        "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\obj\\",
+        "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
+        "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

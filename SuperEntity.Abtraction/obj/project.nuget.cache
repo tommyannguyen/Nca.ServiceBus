@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hBg4KqmwMfHac2c6OgvvhkRVshNP226uUUBzlitVPXSzlnFq56qUegRfpIDYHFs6xKKuhyjCDPlzQwSsXDnONQ==",
+  "dgSpecHash": "sV0M8Jm5ynqiPqfkwTrd817iZJGUuZ6fqBz3Oa4ddvwYwVcnvmeXAqqIRYMblDoDEqHHDqyi8wK9CmvefYJK0w==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj",
+  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\SuperEntity.Abtraction\\SuperEntity.Abtraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

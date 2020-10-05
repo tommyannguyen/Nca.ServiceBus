@@ -40,7 +40,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "3rzMq7SO8xE+0o2mR3/qIsTPgyP/GikFZ1cqAwrnSa0ZLZ5Dumg89duMQCHuLKEIzFqBmFLnqtIpJfH0FhiA6w==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -195,25 +195,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\An Linh\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
       "projectName": "Multilinguage.ApplicationServices",
-      "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
-      "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-      "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\obj\\",
+      "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
+      "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+      "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -222,14 +220,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
-              "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
+            "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
+              "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
             }
           }
         }

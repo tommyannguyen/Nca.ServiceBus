@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj": {}
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj": {}
   },
   "projects": {
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
+        "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
         "projectName": "Multilingual.Abtraction",
-        "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
-        "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-        "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\obj\\",
+        "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
+        "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -65,21 +63,20 @@
         }
       }
     },
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj": {
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj",
+        "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj",
         "projectName": "Multilingual.MigrationMock",
-        "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj",
-        "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-        "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MigrationMock\\obj\\",
+        "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationMock\\Multilingual.MigrationMock.csproj",
+        "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MigrationMock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -88,14 +85,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj": {
-                "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj"
+              "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj": {
+                "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj"
               }
             }
           }
@@ -147,21 +143,20 @@
         }
       }
     },
-    "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj": {
+    "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj",
+        "projectUniqueName": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj",
         "projectName": "Multilingual.MockDb",
-        "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj",
-        "packagesPath": "C:\\Users\\An Linh\\.nuget\\packages\\",
-        "outputPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.MockDb\\obj\\",
+        "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\Multilingual.MockDb.csproj",
+        "packagesPath": "C:\\Users\\an2nguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.MockDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\An Linh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an2nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -170,14 +165,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
-                "projectPath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
+              "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj": {
+                "projectPath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj"
               }
             }
           }

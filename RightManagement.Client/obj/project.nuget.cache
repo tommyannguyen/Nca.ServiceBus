@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tPX2Goc5gvvEDGKO49JVjiMyjDuv/mPazUVn65qlyz15YhBraHSQQdbfwPghaie8vyaw2C63ViP06sik1ZJsZQ==",
+  "dgSpecHash": "rkKTg+C/rQI8voGFXBSrLqNgHfJa2J8dTbD4VTAWODtMchARl7ShbmYSTZpgIUFPE7cTdjJwyX/6nDi72L3E/Q==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\RightManagement.Client\\RightManagement.Client.csproj",
+  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\RightManagement.Client\\RightManagement.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\An Linh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

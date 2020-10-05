@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uhC7yW3e1wyEcfRshd3r+KwyDvxs5O3cfO+Ssf61jpvCg+aRwDJujUu/msvDpzX6CkPXwvNuY4p7cWeYvh3J7Q==",
+  "dgSpecHash": "N/fD/iV4y6ePROVymViYpukkcXT0kCTUdwnFG0X/V1ODnVMBR9hnHSjzIzpIJ+UptVSXccBBcRNSutiP/Gwr0w==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
+  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilinguage.ApplicationServices\\Multilinguage.ApplicationServices.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\An Linh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\an2nguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
