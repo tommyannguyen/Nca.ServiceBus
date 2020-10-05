@@ -57,16 +57,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationServices", "Appl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilinguage.ApplicationServices", "Multilinguage.ApplicationServices\Multilinguage.ApplicationServices.csproj", "{DEB80647-03C4-4D18-BE45-A60A24189975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual.MockDb", "Multilingual.MockDb\Multilingual.MockDb.csproj", "{AC798337-3FD0-42DB-9802-CF87218F582C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilingual.MockDb", "Multilingual.MockDb\Multilingual.MockDb.csproj", "{AC798337-3FD0-42DB-9802-CF87218F582C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual.MigrationMock", "Multilingual.MigrationMock\Multilingual.MigrationMock.csproj", "{4636A430-3E69-4881-AC03-951785EE02FC}"
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilinguage.ApplicationServices", "Multilinguage.ApplicationServices\Multilinguage.ApplicationServices.csproj", "{DEB80647-03C4-4D18-BE45-A60A24189975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilingual.MigrationMock", "Multilingual.MigrationMock\Multilingual.MigrationMock.csproj", "{4636A430-3E69-4881-AC03-951785EE02FC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultiTenants", "MultiTenants", "{59195F40-7B1E-4053-9EA0-B6C2284A29F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenants.Abtraction", "MultiTenants.Abtraction\MultiTenants.Abtraction.csproj", "{89DFFEE8-2EAD-42DC-A330-72642F30F825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTenants.Abtraction", "MultiTenants.Abtraction\MultiTenants.Abtraction.csproj", "{89DFFEE8-2EAD-42DC-A330-72642F30F825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenants.Core", "MultiTenants.Core\MultiTenants.Core.csproj", "{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTenants.Core", "MultiTenants.Core\MultiTenants.Core.csproj", "{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -134,6 +133,22 @@ Global
 		{DEB80647-03C4-4D18-BE45-A60A24189975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB80647-03C4-4D18-BE45-A60A24189975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB80647-03C4-4D18-BE45-A60A24189975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC798337-3FD0-42DB-9802-CF87218F582C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC798337-3FD0-42DB-9802-CF87218F582C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC798337-3FD0-42DB-9802-CF87218F582C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC798337-3FD0-42DB-9802-CF87218F582C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4636A430-3E69-4881-AC03-951785EE02FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4636A430-3E69-4881-AC03-951785EE02FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4636A430-3E69-4881-AC03-951785EE02FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4636A430-3E69-4881-AC03-951785EE02FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DFFEE8-2EAD-42DC-A330-72642F30F825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DFFEE8-2EAD-42DC-A330-72642F30F825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DFFEE8-2EAD-42DC-A330-72642F30F825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DFFEE8-2EAD-42DC-A330-72642F30F825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEE42AA-639E-4389-BDAB-10F5B9B1069F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
