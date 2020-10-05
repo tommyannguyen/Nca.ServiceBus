@@ -4,11 +4,10 @@ namespace Multilingual.Abtraction.Models.Metadata
 {
     public class MetadataEntity : IMetadataEntity
     {
-        public IEnumerable<IMetadataValue> Metadatas { get; set; }
-    }
-
-    public interface IMetadataEntity : IEntity
-    {
-        IEnumerable<IMetadataValue> Metadatas { get; set; }
+        public MetadataEntity(IEnumerable<IProperty> metadatas)
+        {
+            this.Metadatas = metadatas;
+        }
+        public IEnumerable<IProperty> Metadatas { get; set; }
     }
 }

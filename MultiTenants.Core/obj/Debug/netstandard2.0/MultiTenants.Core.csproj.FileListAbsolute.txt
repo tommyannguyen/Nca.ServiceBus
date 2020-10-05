@@ -1,0 +1,4 @@
+C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.csprojAssemblyReference.cache
+C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.AssemblyInfoInputs.cache
+C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.AssemblyInfo.cs
+C:\Nca\Development\Nca.ServiceBus\MultiTenants.Core\obj\Debug\netstandard2.0\MultiTenants.Core.csproj.CoreCompileInputs.cache

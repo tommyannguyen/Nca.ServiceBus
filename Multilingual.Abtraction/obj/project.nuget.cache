@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uk+dtcJb9tFK03n7b3qtuPTMP/GzMA5UfEY6yCHs8KOQt1gI0t9Cs5YsfFkARlCWetAliCmsERDgb6kn8ypZfw==",
+  "dgSpecHash": "L44qmhU9Pj3NSqA9W4+sWBJK2WsX9Kl2rsegbKXbMv7i47qk3SQvUUoCQBYbD4U40aQL0TiahfOuxcegQDiifQ==",
   "success": true,
-  "projectFilePath": "C:\\Nca\\Projects\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
+  "projectFilePath": "C:\\Nca\\Development\\Nca.ServiceBus\\Multilingual.Abtraction\\Multilingual.Abtraction.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\an2nguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\an2nguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\An Linh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
